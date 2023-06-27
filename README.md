@@ -1,2 +1,2 @@
 My first readme
-GitHub commit
+GitHub readme
